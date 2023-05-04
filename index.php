@@ -43,13 +43,13 @@
                     <!-- Images && content -->
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="./src/img/slider6.jpg"/>
+                            <img src="./src/img/CLOTHES-1.jpg"/>
                         </div>
                         <div class="carousel-item">
-                            <img src="./src/img/slider5.jpg"/>
+                            <img src="./src/img/CLOTHES-2.jpg"/>
                         </div>
                         <div class="carousel-item">
-                            <img src="./src/img/slider4.jpg"/>
+                            <img src="./src/img/CLOTHES-3.jpg"/>
                         </div>
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -85,41 +85,7 @@
                     </div>
                     
                 </div>
-                <div class="banner">
-                    <div class="row">
-                        <div class="col-12 mb-4">
-                            <img src="./src/img/trending.jpg" class="top-img" alt="">
-                        </div>
-                        <div class="col-6">
-                            <img src="./src/img/trending1.jpg" class=" bottom-left-img" alt="" style="width: 100%">
-                        </div>
-                        <div class="col-6">
-                            <img src="./src/img/trending2.jpg" class=" bottom-right-img" alt="" style="width: 100%">
-                        </div>
-                    </div>
-                    
-                </div>
-                <div class="gallery">
-                    <div class="title">
-                        <p class="content">Gallery</p>
-                    </div>
-                    <div class="gallery-list">
-                        <div class="row">
-                            <div class="col-lg-3 col-md-3 col-6 gallery-item">
-                                <img src="./src/img/gallery/gallery-1.jpg" class="gallery-item-img" alt="">
-                            </div>
-                            <div class="col-lg-3 col-md-3 col-6 gallery-item">
-                                <img src="./src/img/gallery/gallery-2.jpg" class="gallery-item-img" alt="">
-                            </div>
-                            <div class="col-lg-3 col-md-3 col-6 gallery-item">
-                                <img src="./src/img/gallery/gallery-3.jpg" class="gallery-item-img" alt="">
-                            </div>
-                            <div class="col-lg-3 col-md-3 col-6 gallery-item">
-                                <img src="./src/img/gallery/gallery-4.jpg" class="gallery-item-img" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
                 <?php 
                     include_once "./components/footer.php";
                 ?>
